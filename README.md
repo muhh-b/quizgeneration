@@ -64,6 +64,9 @@ pip install -r requirements.txt
 4. The quiz questions are integrated with the Google Forms API to create quizzes.
 5. The created quizzes can be accessed and shared through the Google Forms platform.
 
+## HUGGING FACE SPACES UI
+![Project Screenshot](quiz_generation_project_UI.png)
+
 
 ## Acknowledgments
 
