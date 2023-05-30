@@ -19,12 +19,13 @@ This project aims to automate the process of audio transcription and quiz genera
 
 
 
-https://github.com/muhh-b/quizgeneration/assets/69880179/77ad89df-61be-449e-ab7b-faf515202cfb
-
+https://github.com/muhh-b/quizgeneration/assets/69880179/0bab6fb9-ac2f-4954-8bf9-09676ac4bc73
 
 
 
 ## HUGGING FACE SPACES UI
+
+
 ![Project Screenshot](quiz_generation_project_UI.png)
 
 ## Features
