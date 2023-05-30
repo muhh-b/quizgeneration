@@ -15,6 +15,10 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 This project aims to automate the process of audio transcription and quiz generation based on the transcribed text. It utilizes the Whisper model for audio transcription, a spell checker model for correcting spelling errors, the Google BARD API for quiz generation, and the Google Forms API for creating quizzes.
 
+## Link to live demo
+
+https://huggingface.co/spaces/muhh-b/quizgeneration
+
 ## project quick demo
 
 
