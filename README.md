@@ -24,6 +24,8 @@ This project aims to automate the process of audio transcription and quiz genera
 - Spelling Correction: Correct spelling errors in the transcribed text using a spell checker model.
 - Quiz Generation: Generate quizzes based on the transcribed text using the Google BARD API.
 - Google Forms Integration: Create quizzes using the generated quiz questions and the Google Forms API.
+- Deployment: Deployed on Hugging Face Spaces using Streamlit.
+
 
 ## Dependencies
 
