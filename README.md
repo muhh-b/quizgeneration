@@ -29,7 +29,7 @@ https://github.com/muhh-b/quizgeneration/assets/69880179/0bab6fb9-ac2f-4954-8bf9
 https://github.com/muhh-b/quizgeneration/assets/69880179/78db4c69-7e22-490a-b6ca-72f8bdaccb75
 
 
-##PROJECT UI
+## PROJECT UI
 
 
 ![Project Screenshot](quiz_generation_project_UI.png)
