@@ -22,8 +22,14 @@ This project aims to automate the process of audio transcription and quiz genera
 https://github.com/muhh-b/quizgeneration/assets/69880179/0bab6fb9-ac2f-4954-8bf9-09676ac4bc73
 
 
+## FULL VIDEO
 
-## HUGGING FACE SPACES UI
+
+
+https://github.com/muhh-b/quizgeneration/assets/69880179/78db4c69-7e22-490a-b6ca-72f8bdaccb75
+
+
+##PROJECT UI
 
 
 ![Project Screenshot](quiz_generation_project_UI.png)
@@ -68,8 +74,8 @@ pip install -r requirements.txt
 
 1. Enable the Google Forms API in your Google Cloud project.
 2. Authorize credentials for a desktop application and save the downloaded `credentials.json` file in your working directory.
-3. Run the `app.py` file to start the application.
-4. Use the application interface to transcribe audio files, correct spelling errors, generate quizzes, and create quizzes using the Google Forms API.
+3. Run the `streamlit run app.py` command to start the application.
+4. Use the streamlit interface to transcribe audio files, correct spelling errors, generate quizzes, and create quizzes using the Google Forms API.
 
 ## Workflow
 
